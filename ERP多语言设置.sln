@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP多语言设置", "ERP多语言设置\ERP多语言设置.csproj", "{975A13CF-8E41-4C73-B3BD-A837D4DC2C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP中文导出", "ERP中文导出\ERP中文导出.csproj", "{87F41B0D-33FE-4EAB-85B9-24C55EC036D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP中文导入到SQL", "ERP中文导入到SQL\ERP中文导入到SQL.csproj", "{E45D00D6-408C-4722-AC1F-10D477BD9214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP中文语言修改", "ERP中文语言修改\ERP中文语言修改.csproj", "{059BBB23-F064-484C-A131-3E590618AD12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyERPClassLibrary", "MyERPClassLibrary\MyERPClassLibrary.csproj", "{9CAD9F68-042F-4945-A38C-295A7CEA5BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "获取文件最后修改时间", "获取文件最后修改时间\获取文件最后修改时间.csproj", "{8709BDEE-C56E-471F-9951-BAC19A83CCD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975A13CF-8E41-4C73-B3BD-A837D4DC2C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975A13CF-8E41-4C73-B3BD-A837D4DC2C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975A13CF-8E41-4C73-B3BD-A837D4DC2C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975A13CF-8E41-4C73-B3BD-A837D4DC2C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F41B0D-33FE-4EAB-85B9-24C55EC036D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F41B0D-33FE-4EAB-85B9-24C55EC036D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F41B0D-33FE-4EAB-85B9-24C55EC036D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F41B0D-33FE-4EAB-85B9-24C55EC036D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45D00D6-408C-4722-AC1F-10D477BD9214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45D00D6-408C-4722-AC1F-10D477BD9214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45D00D6-408C-4722-AC1F-10D477BD9214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45D00D6-408C-4722-AC1F-10D477BD9214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059BBB23-F064-484C-A131-3E590618AD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059BBB23-F064-484C-A131-3E590618AD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059BBB23-F064-484C-A131-3E590618AD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059BBB23-F064-484C-A131-3E590618AD12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CAD9F68-042F-4945-A38C-295A7CEA5BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAD9F68-042F-4945-A38C-295A7CEA5BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAD9F68-042F-4945-A38C-295A7CEA5BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAD9F68-042F-4945-A38C-295A7CEA5BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8709BDEE-C56E-471F-9951-BAC19A83CCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8709BDEE-C56E-471F-9951-BAC19A83CCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8709BDEE-C56E-471F-9951-BAC19A83CCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8709BDEE-C56E-471F-9951-BAC19A83CCD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF5650D7-8435-45A9-B9D4-B09D69AA75E7}
+	EndGlobalSection
+EndGlobal
